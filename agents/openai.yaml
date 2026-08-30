@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read Book"
+  short_description: "Read and summarize technical or nonfiction books"
+  default_prompt: "Use $read-book to read this technical or nonfiction book and produce a structured Chinese summary."
