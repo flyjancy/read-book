@@ -1,9 +1,13 @@
+<div align="center">
+
 # Read Book
 
 **完整阅读技术或非虚构书籍并生成结构化中文总结的 Codex skill**<br>
 **A Codex skill for reading complete technical or nonfiction books and producing structured Chinese summaries**
 
 [中文](#中文) · [English](#english)
+
+</div>
 
 ---
 
