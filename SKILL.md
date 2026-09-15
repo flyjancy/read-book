@@ -82,7 +82,7 @@ description: Read and summarize complete technical or nonfiction books from web 
 ## 交付
 
 - 默认仅在对话中返回总结。
-- 只有用户明确要求保存时才创建 Markdown 文件；未指定文件名时使用 `summary-<正式书名>.md`，将连续空白与标点规范为单个连字符。
+- 只有用户明确要求保存时才创建 Markdown 文件；未指定文件名时使用 `<正式书名>-summary.md`，将连续空白与标点规范为单个连字符。若所在仓库在 `AGENTS.md` 或索引文件中另有明确的 Summary 命名约定，以仓库约定为准。
 - 保存前检查同名文件，未经明确授权不覆盖现有总结。
 
 ## 完成检查
